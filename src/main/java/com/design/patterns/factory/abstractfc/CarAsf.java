@@ -10,7 +10,6 @@ public interface CarAsf {
 
 class HighCar implements CarAsf {
 
-    @Override
     public void createCar() {
         System.out.println("High-create Tesla");
     }
@@ -18,7 +17,6 @@ class HighCar implements CarAsf {
 
 class LowCar implements CarAsf {
 
-    @Override
     public void createCar() {
         System.out.println("Low create xxx");
     }
