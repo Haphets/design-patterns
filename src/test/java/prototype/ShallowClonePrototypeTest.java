@@ -1,8 +1,8 @@
 package prototype;
 
-import com.design.patterns.buildex.builder.Battery;
-import com.design.patterns.buildex.builder.MiPhoneBuilder;
-import com.design.patterns.buildex.builder.Screen;
+import com.design.patterns.build.builder.Battery;
+import com.design.patterns.build.builder.MiPhoneBuilder;
+import com.design.patterns.build.builder.Screen;
 import com.design.patterns.prototype.ShallowPhonePrototype;
 import org.junit.Test;
 
