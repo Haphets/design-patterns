@@ -10,7 +10,7 @@ import org.junit.Test;
  * Date: 2018-08-29 22:46
  * 静态代理类测试
  */
-public class StaticProxy {
+public class StaticProxyTest {
     /**
      * 静态代理类测试
      * SaleProxy - 代理对象
